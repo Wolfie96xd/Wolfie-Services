@@ -26,5 +26,7 @@ Among the most notable servers I worked on were:
 
 
 For more than 3 years I have been and still am part of [ClankyHosting's](https://discord.gg/TrspvYdpGJ) staff.
+I started working for this company three years ago, working in the support department. During this time, I gained valuable knowledge about server error handling and developed solid skills to solve problems efficiently. This experience allowed me to understand the importance of maintaining server stability and functionality, as well as customer satisfaction. Since then, I have continued to hone my skills and expand my expertise in server configuration and optimization to provide effective and quality solutions to my clients.
+Currently I hold the position of System Manager, therefore I am in charge of leading and supervising the integral management of the systems, ensuring their optimal operation and performance. 
 
 
