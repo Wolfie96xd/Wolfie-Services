@@ -14,9 +14,11 @@ My focus on client communication and attention to detail has also been instrumen
 
 `In summary, my experience in configuring Minecraft plugins and servers over the past two years has made me an expert in Minecraft server customization and optimization, with a focus on customer satisfaction and quality of service.`
 
+
+
 ## [![clanky_title](https://github.com/Wolfie96xd/Wolfie-Services/assets/90865184/c3cefb01-3284-4cf0-825f-0946cdc99a80)](https://discord.gg/TrspvYdpGJ)
 
 
-I have been part of [ClankyHosting's](https://discord.gg/TrspvYdpGJ) staff.
+For more than 3 years I have been and still am part of [ClankyHosting's](https://discord.gg/TrspvYdpGJ) staff.
 
 
