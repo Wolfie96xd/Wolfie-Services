@@ -4,7 +4,7 @@
 
 ![title](https://github.com/Wolfie96xd/Wolfie-Services/assets/90865184/e723bd87-148a-47fa-acbd-ba0dd078d4de)
 
-## Minecraft Configurator 
+## ![configurator_title](https://github.com/Wolfie96xd/Wolfie-Services/assets/90865184/4f90d6e4-2f5b-4731-9bd4-496d0209a199)
 
 As a Minecraft plugin and server configurator, I have gained extensive experience in creating and customizing Minecraft servers for a variety of communities and individual users. Over the past four years, I have worked on projects ranging from small buddy servers to large server networks, and have developed an in-depth knowledge of Minecraft plugins and their interaction with the server.
 
