@@ -1,10 +1,10 @@
 # Wolfie Portfolio
-[![4Y - Mc Configurator](https://img.shields.io/badge/3Y-Mc_Configurator-930F3A)](https://) [![1Y - Pixel art Artist / Texture Designer](https://img.shields.io/badge/1Y-Pixel_art_Artist_%2F_Texture_Designer-2097C4)](https://) [![3Y - ClankyHosting - System Manager](https://img.shields.io/badge/3Y-ClankyHosting_--_System_Manager-00C6FF)](https://discord.gg/TrspvYdpGJ)
+![4Y - Mc Configurator](https://img.shields.io/badge/4Y-Mc_Configurator-881137) [![1Y - Pixel art Artist / Texture Designer](https://img.shields.io/badge/1Y-Pixel_art_Artist_%2F_Texture_Designer-2097C4)](https://) [![3Y - ClankyHosting - System Manager](https://img.shields.io/badge/3Y-ClankyHosting_--_System_Manager-00C6FF)](https://discord.gg/TrspvYdpGJ)
 
 
 ## Minecraft Configurator 
 
-As a Minecraft plugin and server configurator, I have gained extensive experience in creating and customizing Minecraft servers for a variety of communities and individual users. Over the past three years, I have worked on projects ranging from small buddy servers to large server networks, and have developed an in-depth knowledge of Minecraft plugins and their interaction with the server.
+As a Minecraft plugin and server configurator, I have gained extensive experience in creating and customizing Minecraft servers for a variety of communities and individual users. Over the past four years, I have worked on projects ranging from small buddy servers to large server networks, and have developed an in-depth knowledge of Minecraft plugins and their interaction with the server.
 
 My ability to select and configure appropriate plugins for each server is one of my greatest strengths, allowing me to optimize performance and ensure a smooth and satisfying game experience for users.
 
