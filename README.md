@@ -13,11 +13,12 @@ My focus on client communication and attention to detail has also been instrumen
 
 `In summary, my experience in configuring Minecraft plugins and servers over the past two years has made me an expert in Minecraft server customization and optimization, with a focus on customer satisfaction and quality of service.`
 
-Entre los servidores más destacables en los que trabajé, se encuentran:
+Among the most notable servers I worked on were:
 
-- Servidor de Minecraft Aventuras Épicas
-- Servidor de Supervivencia Extrema
-- Servidor de Construcciones Creativas
+- VirtualHit
+- TimeLineMc
+- VolcanoMc
+- Geopolotic Era
 
 
 
